@@ -17,7 +17,11 @@
     "npm-scripts"
   ],
   "author": "ardinsys",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ardinsys/cross-var.git"
+  },
   "dependencies": {
     "cross-spawn": "^7.0.3"
   }
