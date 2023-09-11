@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony
+#!/usr/bin/env -S node --harmony
 
 const { sync } = require("cross-spawn");
 const { exec } = require("child_process");
